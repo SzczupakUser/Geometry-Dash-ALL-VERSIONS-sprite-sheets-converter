@@ -38,4 +38,5 @@ Open an issue on the [Issues tab](https://github.com/SzczupakUser/Geometry-Dash-
 
 ### Credits
 - Program made by SzczupakUser (Szczupak)
+- Credits to RobTop for plist from Geometry Dash
 - I made this all by myself, so there's no one else to credit here :)

@@ -1,5 +1,4 @@
 # Geometry-Dash-ALL-VERSIONS-sprite-sheets-converter
-# **THE CONVERTER HAS A ISSUE SO STAY TUNED FOR THE FIX, SORRY TO EVERYONE FOR IT**
 
 A little program that converts Geometry Dash sprite sheets from any version format to the version you pick. It works in reverse too, so you can go up or down. Every version from 1.9 up to the newest one is supported.
 
